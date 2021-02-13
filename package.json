@@ -6,7 +6,7 @@
     "git"
   ],
   "engines": {
-    "node": ">=10.11.0 <13"
+    "node": ">=10.11.0"
   },
   "repository": {
     "type": "git",
